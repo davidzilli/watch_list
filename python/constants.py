@@ -1,0 +1,7 @@
+DB = "localhost"
+DB_NAME = "WatchList"
+USER = "root"
+PASSWORD = "\'"
+SPACE = "%2520"
+PIPE = "%257C"
+URL_PRE = "http://www.vcdq.com/browse/1/0/0/0/0/0/0/"
